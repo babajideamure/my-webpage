@@ -60,12 +60,12 @@ body{
 }
 
 .navbar a:focus {
-  outline: 2px solid #00abf0; /* Add a visible outline to indicate focus */
-  outline-offset: 4px;        /* Space between the element and the outline */
-  background-color: #00abf0; /* Optional: change the background color */
-  color: #081b29;            /* Ensure contrast with the new background */
-  border-radius: 4px;        /* Add rounded corners for a polished look */
-  transition: 0.3s ease;     /* Smooth transition for focus effect */
+  outline: 2px solid #00abf0;
+  outline-offset: 4px; 
+  background-color: #00abf0;
+  color: #081b29;       
+  border-radius: 4px;      
+  transition: 0.3s ease;   
 }
 
 .navbar a:hover,
